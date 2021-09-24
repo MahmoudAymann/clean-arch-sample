@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chrisbanes:PhotoView:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d02b1a0d16a9c263f4e1e5dd0a58f99/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d02b1a0d16a9c263f4e1e5dd0a58f99/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d02b1a0d16a9c263f4e1e5dd0a58f99/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
